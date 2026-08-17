@@ -4,6 +4,8 @@ A multi-class traffic sign detection system built with YOLOv8, covering
 dataset analysis, annotation validation, model training, evaluation,
 error analysis, image inference, and video detection.
 
+![Traffic Sign Detection](assets/prediction_01.png)
+
 ## Overview
 
 This project develops a multi-class traffic sign detection system using
