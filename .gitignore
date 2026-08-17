@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# YOLO / training outputs
+runs/
+wandb/
+
+# Model weights
+*.pt
+*.onnx
+*.engine
+
+# Datasets
+data/
+datasets/
+
+# OS files
+.DS_Store
+Thumbs.db
