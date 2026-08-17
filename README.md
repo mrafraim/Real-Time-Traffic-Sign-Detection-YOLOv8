@@ -157,7 +157,7 @@ than only individual images.
 
 The complete end-to-end implementation, including dataset analysis,
 training, evaluation, error analysis, and inference, is available in the
-[Jupyter Notebook](traffic_sign_detection_yolov8.ipynb).
+[Jupyter Notebook](real-time-traffic-sign-detection-using-yolov8.ipynb).
 
 ## Technologies
 
