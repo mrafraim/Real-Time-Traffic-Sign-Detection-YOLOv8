@@ -126,7 +126,9 @@ practical detection behavior.
 The trained YOLOv8 model was also applied to video input to demonstrate
 continuous traffic-sign detection.
 
-![Video Detection Demo](assets/video_demo.gif)
+<p align="center">
+  <img src="assets/video_demo.gif" width="700">
+</p>
 
 The model successfully performed frame-by-frame detection on the test
 video, demonstrating its ability to process continuous visual input rather
